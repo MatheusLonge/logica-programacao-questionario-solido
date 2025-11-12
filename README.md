@@ -1,4 +1,4 @@
-# Lógica programacao Questionário Sólido
+# Lógica de programação Questionário Sólido
 Exercícios resolvidos de lógica de programação — abordando alguns níveis — com exemplos em python
 
 O repositório em si, possui algumas **soluções progressivas** para consolidação de determinados conhecimentos. Obviamente não irá abranger todos casos, mas o que seria como base em outros aprendizados, para boa parte das linguagens. Por praticidade e para maioria dos que consultarem os exemplos serão fornecidos em **python**, mas fique a vontade para contribuir, perguntar ou sugerir em outras situações. Mesmo que possua dificuldades, é **altamente recomendável que faça toda a lista sem qualquer consulta**, até mesmo quanto a dúvidas básicas de sintaxe. Tenha plena certeza que quando estiver resolvendo toda a lista em tempo hábil e de modo independente você terá a convicção que estará a um passo a frente. Boa sorte!
